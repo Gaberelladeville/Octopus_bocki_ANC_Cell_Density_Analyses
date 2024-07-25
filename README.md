@@ -1,2 +1,1 @@
-# Octopus_bocki_ANC_Cell_Density_Analyses
-Repository for code to analyze regional differences in octopus axial nerve cord neuronal density
+This repo contains the R code to specify and fit the Generalized linear mixed models used in the Current Biology publication: Winters-Bostwick, G. C., Giancola-Detmering, S. E., Bostwick, C. J., Crook R. J. Three-Dimensional Molecular Atlas Highlights Spatial and Neurochemical Complexity in the Axial Nerve Cord of Octopus Arms
